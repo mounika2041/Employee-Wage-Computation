@@ -15,7 +15,7 @@ namespace Employee_Wage_Computation
         static void Main(string[] args)
         {
             Console.WriteLine("welcome to employee wage computation");
-            //UC2
+            //UC3
             int FullTime = 1,PartTime=2;
             int empRatePerHr = 20;
             int empHrs = 0;
